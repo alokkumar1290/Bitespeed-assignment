@@ -67,4 +67,4 @@ Returns a deduplicated, unified contact profile.
 
 ## Hosted URL
 The service is hosted and can be accessed at:
-http://ec2-13-201-62-221.ap-south-1.compute.amazonaws.com:3000/
+https://bitespeed-assignment-erfz.onrender.com
